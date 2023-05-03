@@ -34,7 +34,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://imgur.com/1m1QuY0.png" height="100%" width="100%" alt="Configure Step 1"/>
+<img src="https://imgur.com/1m1QuY0.png" height="80%" width="80%" alt="Configure Step 1"/>
 </p>
 <p>
 <h3>1. Configure Roles</h3>
@@ -49,7 +49,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://imgur.com/1iTZYJt.png" height="100%" width="100%" alt="Configure Step 2"/>
+<img src="https://imgur.com/1iTZYJt.png" height="80%" width="80%" alt="Configure Step 2"/>
 </p>
 <p>
 <h3>2. Configure Depoartments</h3>
@@ -63,7 +63,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://imgur.com/Oal4X5q.png" height="100%" width="100%" alt="Configure Step 3"/>
+<img src="https://imgur.com/Oal4X5q.png" height="80%" width="80%" alt="Configure Step 3"/>
 </p>
 <p>
 <h3>3. Configure Teams</h3>
@@ -77,7 +77,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/FeLc7F3.png" height="80%" width="80%" alt="Configure Step 4"/>
 </p>
 <p>
 <h3>4. Configure TIcket Creation</h3>
@@ -91,7 +91,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/5nigfCd.png" height="80%" width="80%" alt="Configure Step 5"/>
 </p>
 <p>
 <h3>5. Configure Agents</h3>
@@ -110,12 +110,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/K7te9QR.png" height="80%" width="80%" alt="Configure Step 6"/>
 </p>
 <p>
 <h3>6. Configure Users</h3>
   
-  - Within the Agemt Panel navigate to USers
+  - Within the Agemt Panel navigate to Users
   
   - Select Add User
   
@@ -128,7 +128,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/9CMk0T5.png" height="80%" width="80%" alt="Configure Step 7"/>
 </p>
 <p>
 <h3>7. Configure SLA</h3>
@@ -137,7 +137,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   
   - Select SLA
   
-  - Create a new SLAs
+  - Select Add New SLA Plan
     
     -SEV-A
     
@@ -148,7 +148,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=".png" height="80%" width="80%" alt="Configure Step 8"/>
 </p>
 <p>
 <h3>8. Configure Help Topics</h3>
