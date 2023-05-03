@@ -34,12 +34,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/1m1QuY0.png" height="100%" width="100%" alt="Configure Step 1"/>
 </p>
 <p>
 <h3>1. Configure Roles</h3>
   
-  - Within the Admin Panel Navigate to Agents
+  - Within the Admin Panel navigate to Agents
   
   - Select Roles
   
@@ -49,12 +49,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/1iTZYJt.png" height="100%" width="100%" alt="Configure Step 2"/>
 </p>
 <p>
 <h3>2. Configure Depoartments</h3>
   
-  - Within the Admin Panel Navigate to Agents
+  - Within the Admin Panel navigate to Agents
   
   - Select Departments
   
@@ -63,7 +63,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Oal4X5q.png" height="100%" width="100%" alt="Configure Step 3"/>
 </p>
 <p>
 <h3>3. Configure Teams</h3>
@@ -96,7 +96,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 <h3>5. Configure Agents</h3>
   
-  - Within the Admin Panel Navigate to Agents
+  - Within the Admin Panel navigate to Agents
   
   - Select Add New
   
@@ -104,7 +104,7 @@ This tutorial outlines the post-install configuration of the open-source help de
     
     - Alan
     
-    -Amy
+    - Amy
   - Configure usernames, passwords, access, and permissions
 </p>
 <br />
@@ -115,7 +115,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 <h3>6. Configure Users</h3>
   
-  - Within the Agemt Panel Navigate to USers
+  - Within the Agemt Panel navigate to USers
   
   - Select Add User
   
@@ -133,7 +133,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 <h3>7. Configure SLA</h3>
   
-  - Within the Admin Panel Navigate to Manage
+  - Within the Admin Panel navigate to Manage
   
   - Select SLA
   
@@ -153,10 +153,19 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 <h3>8. Configure Help Topics</h3>
   
-  - Within the Admin Panel Navigate to Agents
+  - Within the Admin Panel navigate to Manage
   
-  - Select Teams
+  - Select Add new Help Topic
   
-  - Create a new Team called Level II Support
+  - Create a new Help Topics
+      
+      - Business Critical Outage
+      
+      - Personal Computer Issues
+      
+      - VPN Issues
+      
+      - Password Reset
+
 </p>
 <br />
