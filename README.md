@@ -27,7 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Teams
 - Configure Ticket Creation
 - Configure Agents
-- COnfigure Users
+- Configure Users
 - Configure SLA
 - Configure Help Topics
 
@@ -148,7 +148,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src=".png" height="80%" width="80%" alt="Configure Step 8"/>
+<img src="https://imgur.com/i8gcXOQ.png" height="80%" width="80%" alt="Configure Step 8"/>
 </p>
 <p>
 <h3>8. Configure Help Topics</h3>
