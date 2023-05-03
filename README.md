@@ -121,9 +121,9 @@ This tutorial outlines the post-install configuration of the open-source help de
   
   - Create a new Users
     
-    -Brian
+    - Brian
     
-    -Beatriz
+    - Beatriz
 </p>
 <br />
 
@@ -139,11 +139,11 @@ This tutorial outlines the post-install configuration of the open-source help de
   
   - Select Add New SLA Plan
     
-    -SEV-A
+    - SEV-A
     
-    -SEV-B
+    - SEV-B
     
-    -Sev-C
+    - SEV-C
 </p>
 <br />
 
